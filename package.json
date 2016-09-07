@@ -4,7 +4,7 @@
   "description": "Url query filter.Based on oData v4.",
   "main": "./lib/parser.js",
   "scripts": {
-    "test": "mocha && exit 1"
+    "test": "mocha"
   },
   "author": "NoahZhang",
   "license": "MIT",
