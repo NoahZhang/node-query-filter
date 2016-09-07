@@ -1,0 +1,15 @@
+{
+  "name": "node-query-filter",
+  "version": "1.0.0",
+  "description": "Url query filter.Based on oData v4.",
+  "main": "./lib/parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NoahZhang",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  }
+}
