@@ -1,6 +1,11 @@
 node-query-filter
 ===============
 
+[![build status][travis-image]][travis-url]
+
+[travis-image]: https://img.shields.io/travis/koajs/bodyparser.svg?style=flat-square
+[travis-url]: https://travis-ci.org/NoahZhang/node-query-filter#
+
 A url parameter parser for oData filter standard, base on [odata-v4-parser](https://github.com/jaystack/odata-v4-parser).
 
 ## Demo
