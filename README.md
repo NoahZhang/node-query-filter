@@ -10,6 +10,13 @@ A url parameter parser for oData filter standard, base on [odata-v4-parser](http
 
 ## Demo
 ```
+var filter = "name eq 'tu'";
+var result = parser.filter(filter);
+
+console.log(result)
+```
+result:
+```
 {
   position: 0,
   next: 12,
